@@ -1,2 +1,2 @@
 # ga_hco
-Simply prints Google Analytics Tag on WordPress theme footer.
+WordPress Plugin: Simply prints Google Analytics Tag on a theme footer.
